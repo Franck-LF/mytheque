@@ -9,12 +9,13 @@ __pycache__/
 *.exe
 
 # Folder
-Images/
 Data/
 DIV/
-MYTHS/
+env_myth/
+Images/
 INFOS/
-/env_myth/
+Models/
+MYTHS/
 
 # special files
 
