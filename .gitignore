@@ -9,6 +9,7 @@ __pycache__/
 *.exe
 
 # Folder
+BOOKS/
 Data/
 DIV/
 env_myth/
